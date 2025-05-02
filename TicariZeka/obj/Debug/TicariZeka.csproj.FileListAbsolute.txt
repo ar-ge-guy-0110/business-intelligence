@@ -1,0 +1,70 @@
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\bin\Debug\ticarizeka.mdf
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\bin\Debug\ticarizeka_log.ldf
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\bin\Debug\TicariZeka.exe.config
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\bin\Debug\TicariZeka.exe
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\bin\Debug\TicariZeka.pdb
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.csprojAssemblyReference.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_anatanimlar.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.Properties.Resources.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.csproj.GenerateResource.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.csproj.CoreCompileInputs.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.exe
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.pdb
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_tedarikciler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_tedarikciler_kategoriler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_urunler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_urunler_kategoriler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_urunler_stokdegistir.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_alim.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_musteriler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_satim.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\TicariZeka\TicariZeka\obj\Debug\TicariZeka.main_iszekasi.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\ticarizeka.mdf
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\ticarizeka_log.ldf
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\TicariZeka.exe.config
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\TicariZeka.exe
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\TicariZeka.pdb
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.csprojAssemblyReference.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_alim.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_anatanimlar.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_iszekasi.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_musteriler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_satim.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_tedarikciler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_tedarikciler_kategoriler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_urunler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_urunler_kategoriler.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_urunler_stokdegistir.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.Properties.Resources.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.csproj.GenerateResource.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.csproj.CoreCompileInputs.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.exe
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\FREELANCER IS MERKEZI\PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.pdb
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\ticarizeka.mdf
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\ticarizeka_log.ldf
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\TicariZeka.exe.config
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\TicariZeka.exe
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\TicariZeka.pdb
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.csprojAssemblyReference.cache
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_alim.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_anatanimlar.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_iszekasi.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_musteriler.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_satim.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_tedarikciler.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_tedarikciler_kategoriler.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_urunler.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_urunler_kategoriler.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_urunler_stokdegistir.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.Properties.Resources.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.csproj.GenerateResource.cache
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.csproj.CoreCompileInputs.cache
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.exe
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.pdb
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\bin\Debug\FontAwesome.Sharp.dll
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.fm_main.resources
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.csproj.CopyComplete
+E:\CS PROJELER\Ticari Zeka\Batuhan_Kemal_Pusat_Proje\Kaynak Kodlar\TicariZeka\obj\Debug\TicariZeka.main_grafikler.resources
